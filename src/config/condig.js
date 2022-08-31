@@ -1,0 +1,1 @@
+export const snarkBarDuration = 6000
